@@ -45,7 +45,7 @@
       echo $response . "\r\n";
     return $response;
 }
-echo "update";
+
 // $Topic = "NodeMCU1";
  //$lineMsg = "CHECK";
  //getMqttfromlineMsg($Topic,$lineMsg);
