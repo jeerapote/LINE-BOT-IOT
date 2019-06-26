@@ -46,7 +46,7 @@ if (!is_null($events['events'])) {
 				
 			$messages = [
 				'type' => 'text',
-				'text' => "จ่าเฉยยินดีรับใช้ครับ1"
+				'text' => "จ่าเฉยยินดีรับใช้ครับ"
 			];
 			$data = [
 				'replyToken' => $replyToken,
